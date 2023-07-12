@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .carousel-nav:hover>button {
+        @apply block;
+    }
+}

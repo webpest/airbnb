@@ -1,7 +1,6 @@
 import Tabs from "./Tabs";
 import useListing from "../hooks/useListing";
 import { DiAndroid } from "react-icons/di";
-import { useEffect, useState } from "react";
 
 const tabs = [
   {
